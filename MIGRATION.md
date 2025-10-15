@@ -65,3 +65,5 @@ npm run lint:fix
 ```
 
 Commit the changes, then fix any remaining issues manually. Use [ESLint's new bulk suppressions](https://eslint.org/blog/2025/04/introducing-bulk-suppressions/) when the existing number of violations are too numerous. Use [ESLint's `--report-unused-disable-directives` CLI flag](https://eslint.org/docs/latest/use/command-line-interface#--report-unused-disable-directives) to remove all obsolete directives.
+
+<!-- Auto-update: 2025-10-15T12:21:53.674039 -->
